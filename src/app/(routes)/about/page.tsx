@@ -1,11 +1,11 @@
 import { Metadata } from "next";
 import { About } from "@/components/sections/about";
-import { SkillsShowcase} from "@/components/sections/skills";
+import { SkillsShowcase } from "@/components/sections/skills";
 import { Achievements } from "@/components/sections/achievements";
 
 export const metadata: Metadata = {
-  title: "About | Ujjwal Shukla",
-  description: "Learn more about Ujjwal Shukla  - Bachelor in Computer Science student at AKTU University",
+  title: "About | Professional Profile",
+  description: "Learn more about professional background, domain expertise, and core technical capabilities.",
 };
 
 export default function AboutPage() {
